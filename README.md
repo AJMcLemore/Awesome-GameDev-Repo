@@ -1,19 +1,15 @@
-# Awesome-GameDev-Repo
-
-This is my first repository. I will be discussing a list of 10 tools that are important to game development.
-
-## 1. Game engines
-Game engines such as Unity and Unreal Engine are important for developing games. They allow for the general development of the game and for the games to actually run.
-## 2. 3D and 2D art tools
-Depending on what kind of game you are creating will determine whether you use 3D, 2D or both. They will be an essential tool for the visual aspect of the games.
-Some examples may be Blender, photoshop or just art programs such as Krita.
-## 3. Sound design and Music programs/tools.
-Sound effects and music helps bring games to life and is an extremely important tool for creating dynamic games. 
-## 4. Programming softwares
-Programming softwares such as Visual Studio are extremely important for creating the main functions of the game. It is what makes the game interactable and turns the sound and images into an actual playable game.
-## 5. Project and communication management
-Apps like Discord and GitHub are important for game development. Games are often created by groups of people that are working together with different skills and piecing everything together. Being able to communicate and cooperate with your team is essential for efficiently putting all the seperate pieces of the game together.
-## 6. Planning tools and creations
+# Game Development Pathways
+## 1. Game Programming
+Game programmers are software engineers that write various codes for video games. This allows for the game to actually function and it brings all the other visual and audible aspects of the game to life.
+## 2. Game Design
+Game designers are responsible for actually designing the game itself. They create the core vision of the game and design the core rules and mechanics.
+## 3. Game Art
+Game artists are responsible for creating the visual art of the game. This can be the 3D models and maps or the 2D pictures depending on what kind of game is being developed.
+## 4. Audio Design
+Audio designers create all the audio for the game. This can be music heard in the background, boss fight music, credit music, or even just sound effects.
+## 5. Narrative Design
+Narrative designers are the story tellers. They write immersive stories and create the plot for the game.
+# Game programming 
 
 ## 7.
 ## 8. 
